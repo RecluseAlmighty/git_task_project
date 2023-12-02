@@ -1,2 +1,2 @@
-user_input = (input("What would you like to say: "))
+user_input = (input("What is your name: "))
 print(user_input)
